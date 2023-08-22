@@ -1,0 +1,1 @@
+This is the second step for ML: Creating ML model for leanring XOR function.
